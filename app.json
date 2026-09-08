@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "يسوى",
+    "slug": "yiswa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.yiswa.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yiswa.app"
+    }
+  }
+}
